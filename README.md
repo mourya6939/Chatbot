@@ -1,6 +1,6 @@
 # Chatbot
 
-Project Overvie
+Project Overview
 - We will be creating a full stack application using Python as the primary programming language
   
 - penAI API Endpoints to create our Chatbot
